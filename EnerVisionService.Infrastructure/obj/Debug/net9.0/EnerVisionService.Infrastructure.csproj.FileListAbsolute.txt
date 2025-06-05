@@ -1,0 +1,15 @@
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/bin/Debug/net9.0/EnerVisionService.Infrastructure.deps.json
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/bin/Debug/net9.0/EnerVisionService.Infrastructure.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/bin/Debug/net9.0/EnerVisionService.Infrastructure.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/bin/Debug/net9.0/EnerVisionService.Domain.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/bin/Debug/net9.0/EnerVisionService.Domain.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.csproj.AssemblyReference.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.AssemblyInfoInputs.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.AssemblyInfo.cs
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisi.FB455AEE.Up2Date
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/refint/EnerVisionService.Infrastructure.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/EnerVisionService.Infrastructure.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Infrastructure/obj/Debug/net9.0/ref/EnerVisionService.Infrastructure.dll

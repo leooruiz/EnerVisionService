@@ -1,0 +1,11 @@
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/bin/Debug/net9.0/EnerVisionService.Domain.deps.json
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/bin/Debug/net9.0/EnerVisionService.Domain.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/bin/Debug/net9.0/EnerVisionService.Domain.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/EnerVisionService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/EnerVisionService.Domain.AssemblyInfoInputs.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/EnerVisionService.Domain.AssemblyInfo.cs
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/EnerVisionService.Domain.csproj.CoreCompileInputs.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/EnerVisionService.Domain.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/refint/EnerVisionService.Domain.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/EnerVisionService.Domain.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Domain/obj/Debug/net9.0/ref/EnerVisionService.Domain.dll

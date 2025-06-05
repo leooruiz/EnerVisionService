@@ -1,0 +1,15 @@
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/bin/Debug/net9.0/EnerVisionService.Application.deps.json
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/bin/Debug/net9.0/EnerVisionService.Application.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/bin/Debug/net9.0/EnerVisionService.Application.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/bin/Debug/net9.0/EnerVisionService.Domain.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/bin/Debug/net9.0/EnerVisionService.Domain.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.csproj.AssemblyReference.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.AssemblyInfoInputs.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.AssemblyInfo.cs
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.csproj.CoreCompileInputs.cache
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisi.CAB99F51.Up2Date
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/refint/EnerVisionService.Application.dll
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/EnerVisionService.Application.pdb
+/Users/leo_ruiz/Documents/EnerVisionService/EnerVisionService.Application/obj/Debug/net9.0/ref/EnerVisionService.Application.dll

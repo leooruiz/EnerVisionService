@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/oUYBPdFXYcsFE+UWx8guwfIinG7TiH0yLqB20SoeMk=",
+  "Source": "EnerVisionService.API",
+  "BasePath": "_content/EnerVisionService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
