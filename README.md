@@ -23,3 +23,9 @@ O projeto segue arquitetura em camadas:
 1. Clone o projeto:
    ```bash
    git clone https://github.com/seuusuario/EnerVisionService.git
+
+2. Rode o comando:
+   ```bash
+   dotnet run --project EnerVisionService.API
+3. Abra o seu localhost, que pode ser encontrado no arquivo:
+- 'EnerVisionService.API/EnerVisionService.API.http'
