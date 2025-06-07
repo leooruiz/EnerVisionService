@@ -1,6 +1,7 @@
 Integrantes:
 
 Leonardo de Oliveira Ruiz - RM98901
+
 Bruno Venturi Lopes Vieira - RM98431
 
 # EnerVisionService – API de Falhas de Energia
