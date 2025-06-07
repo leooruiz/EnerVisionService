@@ -1,3 +1,8 @@
+Integrantes:
+
+Leonardo de Oliveira Ruiz - RM98901
+Bruno Venturi Lopes Vieira - RM98431
+
 # EnerVisionService – API de Falhas de Energia
 
 API RESTful criada como parte do projeto **EnerVision**, uma solução comunitária para registro e resposta a falhas elétricas causadas por eventos climáticos.
